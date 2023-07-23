@@ -103,5 +103,3 @@ en-US </br>
 * The time breaks given within the code will vary according to your internet connection, also observe the instagram policy on likes and comments by hour and day, pay attention to this so that there are no errors and to keep your account without locks;
 
  ---------------------------------------------------------------------------------------------------------------------
-
-
